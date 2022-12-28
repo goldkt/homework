@@ -1,5 +1,7 @@
 
+#print(x)
+#ggg 
+#def main :
+x= 1+2
+
 print(x)
-ggg test
-def main :
-  1+2
